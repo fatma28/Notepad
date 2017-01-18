@@ -56,7 +56,7 @@ public class Notepad extends Application {
 
     FileChooser fileChooser;
     TextArea TA = new TextArea();
-    boolean flag = true;
+    boolean flag = false;
 
     @Override
     public void start(Stage primaryStage) {
